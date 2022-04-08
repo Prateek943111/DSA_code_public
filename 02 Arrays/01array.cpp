@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-
+// Code changes
 int main(){
 
 	int marks[100] = {-1};
